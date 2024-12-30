@@ -35,7 +35,7 @@
     "babel-preset-es2015-rollup": "^1.2.0",
     "babel-preset-stage-0": "^6.5.0",
     "nyc": "^8.1.0",
-    "rollup": "^0.34.13",
+    "rollup": "^4.29.1",
     "rollup-plugin-babel": "^2.6.1",
     "xyz": "^1.0.0"
   },
